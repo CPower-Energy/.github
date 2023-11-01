@@ -1,12 +1,12 @@
 ![CPower Logo](https://github.com/CPowerESP/CPowerESP/assets/149525816/899dbb4a-6e71-4504-af1d-61397d5bfde0.png)
 
-# Enrollments, Settlements, and Payments (ESP) Team - CPower Energy Management
+# Enrollments, Settlements, and Payments (ESP) Team - CPower Energy
 
-Welcome to the official GitHub repository for the ESP team at CPower Energy Management. We manage and automate workflows for Enrollments, Settlements, and Payments, ensuring seamless operations and integrations within the company. This GitHub account was created by Tyler Sims with an initial focus on automating workflows in the ISONE region. The repositories in this account will be accessible to all regions, and general tools will be developed for company-wide use.
+Welcome to the official GitHub repository for the ESP team at CPower Energy. We manage and automate workflows for Enrollments, Settlements, and Payments, ensuring seamless operations and integrations within the company. This GitHub account was created by Tyler Sims with an initial focus on automating workflows in the ISONE region. The repositories in this account will be accessible to all regions, and general tools will be developed for company-wide use.
 
 ## 📚 **About**
 
-At CPower Energy Management, the ESP team is dedicated to leveraging cutting-edge technology to simplify and streamline our processes. This repository stands as a testament to our commitment to continuous improvement, innovation, and collaboration. Our goal is to minimize the time it takes for our analysts to consume and process data, enabling them to maximize time spent on optimizing and enriching customer interactions.
+At CPower Energy, the ESP team is dedicated to leveraging cutting-edge technology to simplify and streamline our processes. This repository stands as a testament to our commitment to continuous improvement, innovation, and collaboration. Our goal is to minimize the time it takes for our analysts to consume and process data, enabling them to maximize time spent on optimizing and enriching customer interactions.
 
 ## 🛠 **Repositories**
 
