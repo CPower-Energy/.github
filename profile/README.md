@@ -1,4 +1,4 @@
-![CPower Logo](https://github.com/CPowerESP/CPowerESP/assets/149525816/899dbb4a-6e71-4504-af1d-61397d5bfde0.png)
+<img src="https://github.com/CPower-Energy/.github/assets/149525816/6db37cfb-7a5a-4471-8424-2493e940e51c" width="50%" height="50%">
 
 # Enrollments, Settlements, and Payments (ESP) Team - CPower Energy
 
